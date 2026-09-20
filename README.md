@@ -4,7 +4,7 @@ A free, open-source **soccer/football career simulator** that runs entirely in y
 
 You start at **14 years old** in a youth academy and live an entire career: earn your first professional contract, fight for minutes, move clubs, play for your country, win the Ballon d'Or… or grind out a living in the third division. Every career is different.
 
-**▶️ [Play it here](#)** — *(add your GitHub Pages link once published)*
+**▶️ [Play it now in your browser](https://randomprojects1234.github.io/career-legend/)** — free, no install, no account.
 
 ---
 
