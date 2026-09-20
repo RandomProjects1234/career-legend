@@ -1,0 +1,16 @@
+﻿# —— other projects that happen to live in this folder (not part of this game) ——
+ai-game-arena/
+dunk-or-get-dunked/
+openrouter-studio-chat/
+smart170m/
+world-smashers-deluxe.html
+
+# —— local/editor cruft ——
+.claude/
+*.bak
+.DS_Store
+Thumbs.db
+node_modules/
+*.log
+.vscode/
+.idea/
