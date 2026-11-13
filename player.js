@@ -73,11 +73,11 @@ function trainWeek(state) {
   const griefM = state.grief && state.grief.weeks > 0 ? 0.55 : 1; // the mind is elsewhere
   const base = 0.26 * ageMult(p.age) * fac * diff.growth * moraleM * griefM * potBrake(p);
   if (focus === "rest") {
-    p.energy = clamp(p.energy + 18, 0, 100);
+    p.energy = 100
     p.morale = clamp(p.morale + 1, 0, 100);
     return;
   }
-  p.energy = clamp(p.energy - 4, 0, 100);
+  p.energy = 100
   if (focus === "skill") {
     const sk = skillById(state.skillFocus);
     if (!sk) { // no move picked — don't waste the week
